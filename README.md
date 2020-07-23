@@ -21,6 +21,7 @@ The different charts that are available are :
 
 For setting up and run this dasdboard, follow these steps:
 - Open the folder after downloading the files.
+- Unzip the data files(CSV).
 -  Install dependencies : `npm install` or `yarn`.
 - Start the server : `npm start` or `npm run start` or `yarn start`.
 - It might open up the browser automatically and show the dashboard. If that doesn't happen, view the dashboard on `localhost:3000` in the browser.
